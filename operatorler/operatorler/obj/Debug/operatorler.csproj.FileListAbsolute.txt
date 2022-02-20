@@ -1,0 +1,7 @@
+C:\Users\Samet\source\repos\operatorler\operatorler\bin\Debug\operatorler.exe.config
+C:\Users\Samet\source\repos\operatorler\operatorler\bin\Debug\operatorler.exe
+C:\Users\Samet\source\repos\operatorler\operatorler\bin\Debug\operatorler.pdb
+C:\Users\Samet\source\repos\operatorler\operatorler\obj\Debug\operatorler.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\operatorler\operatorler\obj\Debug\operatorler.exe
+C:\Users\Samet\source\repos\operatorler\operatorler\obj\Debug\operatorler.pdb
